@@ -1,0 +1,134 @@
+#container{
+  border:1px solid black;
+  width:1080px;
+  margin:auto;}
+#header{ 
+  color:blue;
+  background-color:#D3D3D3;
+  font-size:500%;
+  height:100px;
+  width:1080px;
+  text-align:center;
+  position:relative;}
+
+#search{
+  position:absolute; top:87px;right:74px;}
+
+#links{
+  text-align:center;
+  background-color:#808080;}
+#links a{
+  color:white;
+  text-decoration:none;
+  font-size:150%;}
+#links a:hover{
+  color:blue;
+  background-color:#D3D3D3;
+  text-decoration:underline;
+  font-weight:bold;}
+#links li{
+  display:inline;
+  margin:0px 5px 0px 6px;}
+
+
+
+
+#left{
+  float:left;
+  font-size:110%;
+  background-color:#F0F8FF;
+  width:400px;
+  position:absolute; top:150px;left:75px;}
+#left img{
+  height:300px;
+  width:400px;}
+#leftb{
+  background-color:black;
+  width:400px;
+  color:white;
+  position:absolute; top:290px;left:0px;}
+#left a{
+   text-decoration:none;
+   color:black;
+   font-size:60%;}
+#l2 img{
+   height:100px;
+   width:140px;}
+#l2 p{
+   position:absolute;top:400px;left:150px;}
+   
+
+
+#right{
+  position:absolute; top:150px;right:72px;
+  float:right;
+  background:blue; 
+  width:400px;}
+
+#body{
+  background:white;
+  width:380px;
+  position:absolute; top:150px;left:490px;}
+#body a{
+  text-decoration:none;}
+#body h2{
+  font-size:150%;}
+
+#container2{
+  width:1200px;
+  position:absolute; top:700px;left:75px;}
+#nat{
+  border:1px solid black;
+  width:800px;
+  height:465px;
+  font-size:150%;}
+ #nat a{ 
+   text-decoration:none;
+   font-size:160%;}
+ #nat img{ height:300px;}
+#natb{
+  background-color:black;
+  width:402px;
+  color:white;
+  position:absolute; top:330px;left:0px;}
+#natb a{color:white;font-size:100%;}
+#nat2{
+  float:right;
+  background-color:white;
+  width:380px;}
+#nat2 a{
+  text-decoration:;
+  font-size:80%;}
+   
+
+
+
+
+#inter{
+  border:1px solid black;
+  width:800px;
+  height:465px;
+  font-size:150%;}
+ #inter a{ 
+   text-decoration:none;
+   font-size:160%;}
+ #inter img{ height:300px;}
+#interb{
+  background-color:black;
+  width:402px;
+  color:white;
+  position:absolute; top:800px;left:0px;}
+#interb a{color:white;font-size:100%;}
+#interb2{
+  float:right;
+  background-color:white;
+  width:380px;}
+#interb2 a{
+  text-decoration:;
+  font-size:80%;}
+
+
+
+
+
+  

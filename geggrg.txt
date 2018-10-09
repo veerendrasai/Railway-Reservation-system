@@ -1,0 +1,17 @@
+<marquee behavior="scroll" direction="left">HTML scrolling text... </marquee>
+
+
+<marquee behavior="slide" direction="left"><img src="../jix/img_nat.png" width="120" height="80" alt="Natural" /></marquee>
+<p><a href="http://www.way2tutorial.com/html/html_marquee_image.php">Marquee Image</a></p>
+<!-- Marquee Slide Stop text by Way2Tutorial.com -->
+
+<marquee behavior="alternate" direction="left"><img src="../jix/img_nat.png" width="120" height="80" alt="Natural" /></marquee>
+<p><a href="http://www.way2tutorial.com/html/html_marquee_image.php">Marquee Image</a></p>
+<!-- Marquee Side Touch Margin Bounce Text by Way2Tutorial.com -->
+
+
+<marquee behavior="scroll" direction="left" id="marquee1"><p>Press Button</p></marquee>
+<input type="button" value="Stop Marquee" onClick="document.getElementById('marquee1').stop();">
+<input type="button" value="Start Marquee" onClick="document.getElementById('marquee1').start();">
+<p><a href="http://www.way2tutorial.com/html/html_marquee_start_stop.php">Marquee Start/Stop</a></p>
+<!-- Marquee Start/Stop by Way2Tutorial.com -->
